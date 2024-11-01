@@ -1,6 +1,6 @@
 # SafeConnect: Previsão Inteligente de Doenças com Dados Reais
 
-![SafeConnect Logo](assets/logo.png)
+---
 
 ## Índice
 

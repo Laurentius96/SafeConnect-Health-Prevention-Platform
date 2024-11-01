@@ -1,4 +1,4 @@
-# SafeConnect: Previsão Inteligente de Doenças com Dados Reais
+# Implementação do SafeConnect | Plataforma Inteligente para Prevenção de Doenças em Redes Sociais.
 
 ---
 

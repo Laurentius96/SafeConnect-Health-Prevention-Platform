@@ -1,5 +1,4 @@
-# Implementação do SafeConnect | Plataforma Inteligente para Prevenção de Doenças em Redes Sociais.
-
+# SafeConnect | Plataforma Inteligente para Prevenção de Doenças com Utilização de Dados Reais
 ---
 
 ## Índice

@@ -198,14 +198,12 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 - **Faculdade Descomplica**
   - Pela oportunidade de aplicar conhecimentos adquiridos na **Pós-Graduação em Data Science**.
-- **Professores e Colegas**
-  - Pelo suporte e feedback durante o desenvolvimento do projeto.
 - **Comunidade Open Source**
   - Pelas bibliotecas e datasets disponibilizados, fundamentais para este projeto.
 
 ---
 
-**Contato:** [seu.email@dominio.com](mailto:seu.email@dominio.com)
+**Contato:** [seu.email@dominio.com](mailto:bianchi92@hotmail.com)
 
 ---
 

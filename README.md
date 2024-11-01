@@ -203,7 +203,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-**Contato:** [seu.email@dominio.com](mailto:bianchi92@hotmail.com)
+**Contato:** [bianchi92@hotmail.com](mailto:bianchi92@hotmail.com)
 
 ---
 

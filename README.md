@@ -37,7 +37,7 @@ O **SafeConnect** é uma plataforma inovadora que utiliza dados reais e técnica
 
 ## Pitch Resumido
 
-A rápida propagação de doenças, como a COVID-19, evidencia a necessidade de ferramentas preditivas eficazes. O SafeConnect utiliza dados reais de fontes confiáveis, integrados com técnicas avançadas de inteligência artificial, para prever a disseminação de doenças e auxiliar na tomada de decisões estratégicas. Com isso, buscamos capacitar governos e comunidades a agir de forma eficaz, salvando vidas e recursos.
+A rápida propagação de doenças, como a COVID-19, evidencia a necessidade de ferramentas preditivas eficazes. O SafeConnect utiliza dados reais de fontes confiáveis, integrados com técnicas avançadas de inteligência artificial, para prever a disseminação de doenças e auxiliar na tomada de decisões estratégicas. Com isso, busca capacitar governos e comunidades a agir de forma eficaz, salvando vidas e recursos.
 
 ---
 

@@ -1,77 +1,79 @@
-# SafeConnect | Plataforma Inteligente para Prevenção de Doenças com Utilização de Dados Reais
+Here's the native English version of your README.md:
+
+# SafeConnect | Intelligent Disease Prevention Platform Using Real-World Data
 ---
 
-## Índice
+## Table of Contents
 
-- [Introdução](#introdução)
-- [Objetivo do Projeto](#objetivo-do-projeto)
-- [Pitch Resumido](#pitch-resumido)
-- [Tecnologias e Conceitos Utilizados](#tecnologias-e-conceitos-utilizados)
-- [Fontes de Dados](#fontes-de-dados)
-- [Como Utilizar](#como-utilizar)
-  - [Pré-requisitos](#pré-requisitos)
-  - [Instalação](#instalação)
-  - [Execução](#execução)
-- [Resultados Obtidos](#resultados-obtidos)
-- [Possíveis Melhorias](#possíveis-melhorias)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
-- [Agradecimentos](#agradecimentos)
-
----
-
-## Introdução
-
-O **SafeConnect** é uma plataforma inovadora que utiliza dados reais e técnicas avançadas de inteligência artificial para prever a disseminação de doenças em escala global. Este projeto foi desenvolvido como parte da **Pós-Graduação em Data Science da Faculdade Descomplica**, no contexto do **Módulo 03**, que aborda temas como Regressão e Predição, Deep Learning, Network Science, Perceptron e Adaline.
+- [Introduction](#introduction)
+- [Project Objective](#project-objective)
+- [Executive Summary](#executive-summary)
+- [Technologies and Concepts](#technologies-and-concepts)
+- [Data Sources](#data-sources)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Running the Application](#running-the-application)
+- [Results](#results)
+- [Future Improvements](#future-improvements)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ---
 
-## Objetivo do Projeto
+## Introduction
 
-- **Prever a propagação de doenças** utilizando dados reais e modelos de inteligência artificial.
-- **Auxiliar autoridades de saúde** na tomada de decisões estratégicas e alocação de recursos.
-- **Demonstrar a aplicação prática** das disciplinas do Módulo 03 em um projeto integrado.
+**SafeConnect** is an innovative platform that leverages real-world data and advanced AI techniques to predict disease spread on a global scale. This project was developed as part of the **Data Science Post-Graduate Program at Descomplica College**, specifically for **Module 03**, which covers Regression and Prediction, Deep Learning, Network Science, Perceptron, and Adaline.
 
 ---
 
-## Pitch Resumido
+## Project Objective
 
-A rápida propagação de doenças, como a COVID-19, evidencia a necessidade de ferramentas preditivas eficazes. O SafeConnect utiliza dados reais de fontes confiáveis, integrados com técnicas avançadas de inteligência artificial, para prever a disseminação de doenças e auxiliar na tomada de decisões estratégicas. Com isso, busca capacitar governos e comunidades a agir de forma eficaz, salvando vidas e recursos.
+- **Predict disease spread** using real-world data and AI models
+- **Support health authorities** in strategic decision-making and resource allocation
+- **Demonstrate practical application** of Module 03 concepts in an integrated project
 
 ---
 
-## Tecnologias e Conceitos Utilizados
+## Executive Summary
 
-1. **Regressão e Predição**
-   - Modelo **Random Forest Regressor** para prever o logaritmo do número de novos casos com base em dados de população e casos confirmados.
+The rapid spread of diseases like COVID-19 highlights the critical need for effective predictive tools. SafeConnect combines reliable real-world data with advanced AI techniques to forecast disease spread and support strategic decision-making. Our platform empowers governments and communities to take effective action, ultimately saving lives and resources.
+
+---
+
+## Technologies and Concepts
+
+1. **Regression and Prediction**
+   - **Random Forest Regressor** model for predicting the logarithm of new cases based on population and confirmed case data
 2. **Deep Learning**
-   - Implementação de **Redes Neurais Artificiais (MLPClassifier)** com ajuste de hiperparâmetros e validação cruzada estratificada para classificação de países com alto risco de aumento de casos.
-3. **Perceptron e Adaline**
-   - Embora não utilizados na versão final devido a ajustes para melhorar o desempenho, os conceitos foram considerados no desenvolvimento inicial.
+   - Implementation of **Artificial Neural Networks (MLPClassifier)** with hyperparameter tuning and stratified cross-validation for high-risk country classification
+3. **Perceptron and Adaline**
+   - While not used in the final version due to performance optimization, these concepts influenced early development
 4. **Network Science**
-   - Análise de centralidade dos países em uma rede global simplificada para entender sua influência na propagação de doenças.
-5. **Validação Cruzada e Ajuste de Hiperparâmetros**
-   - Uso de **Stratified K-Fold Cross-Validation** e **GridSearchCV** para garantir a generalização dos modelos e evitar overfitting.
+   - Country centrality analysis in a simplified global network to understand disease spread influence
+5. **Cross-Validation and Hyperparameter Tuning**
+   - Utilizing **Stratified K-Fold Cross-Validation** and **GridSearchCV** to ensure model generalization and prevent overfitting
 
 ---
 
-## Fontes de Dados
+## Data Sources
 
-- **Casos Confirmados de COVID-19**
-  - Fonte: [Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE)](https://github.com/CSSEGISandData/COVID-19)
+- **COVID-19 Confirmed Cases**
+  - Source: [Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE)](https://github.com/CSSEGISandData/COVID-19)
   - URL: `https://github.com/CSSEGISandData/COVID-19`
-- **Dados Demográficos**
-  - Fonte: [World Bank Open Data](https://data.worldbank.org/)
+- **Demographic Data**
+  - Source: [World Bank Open Data](https://data.worldbank.org/)
   - URL: `https://data.worldbank.org/indicator/SP.POP.TOTL`
 
 ---
 
-## Como Utilizar
+## Getting Started
 
-### Pré-requisitos
+### Prerequisites
 
 - **Python 3.7+**
-- Bibliotecas Python:
+- Required Python libraries:
   - `numpy`
   - `pandas`
   - `networkx`
@@ -80,21 +82,21 @@ A rápida propagação de doenças, como a COVID-19, evidencia a necessidade de 
   - `scikit-learn`
   - `seaborn`
 
-### Instalação
+### Installation
 
-1. **Clone o repositório**
+1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/seu-usuario/safeconnect.git
+   git clone https://github.com/your-username/safeconnect.git
    ```
 
-2. **Navegue até o diretório do projeto**
+2. **Navigate to project directory**
 
    ```bash
    cd safeconnect
    ```
 
-3. **Crie um ambiente virtual (opcional, mas recomendado)**
+3. **Create virtual environment (recommended)**
 
    ```bash
    python -m venv venv
@@ -102,108 +104,107 @@ A rápida propagação de doenças, como a COVID-19, evidencia a necessidade de 
    venv\Scripts\activate  # Windows
    ```
 
-4. **Instale as dependências**
+4. **Install dependencies**
 
    ```bash
    pip install -r requirements.txt
    ```
 
-### Execução
+### Running the Application
 
-1. **Execute o script principal**
+1. **Run the main script**
 
    ```bash
    python safeconnect.py
    ```
 
-2. **Visualize os resultados**
-
-   - Os gráficos e resultados serão exibidos na tela.
-   - Logs e métricas serão exibidos no console.
+2. **View results**
+   - Graphs and results will display on screen
+   - Logs and metrics will appear in console
 
 ---
 
-## Resultados Obtidos
+## Results
 
 - **Random Forest Regressor**
-  - *MSE (Erro Médio Quadrático)*: 6.56
-  - *Interpretação*: O modelo consegue prever com boa precisão o logaritmo do número de novos casos.
+  - *Mean Squared Error*: 6.56
+  - *Interpretation*: Model accurately predicts the logarithm of new cases
 
 - **Random Forest Classifier**
-  - *Acurácia no conjunto de teste*: 100%
-  - *Acurácia média na validação cruzada estratificada*: 100%
-  - *Interpretação*: O modelo é altamente eficaz na classificação de países com alto risco de aumento de casos. A validação cruzada indica excelente capacidade de generalização.
+  - *Test Set Accuracy*: 100%
+  - *Stratified Cross-Validation Mean Accuracy*: 100%
+  - *Interpretation*: Highly effective in classifying high-risk countries with excellent generalization capability
 
-- **MLPClassifier (Rede Neural Artificial)**
-  - *Acurácia no conjunto de teste*: 100%
-  - *Acurácia média na validação cruzada estratificada*: 100%
-  - *Interpretação*: Após ajuste de hiperparâmetros e aplicação de técnicas para evitar overfitting, o modelo apresenta desempenho excepcional.
+- **MLPClassifier (Neural Network)**
+  - *Test Set Accuracy*: 100%
+  - *Stratified Cross-Validation Mean Accuracy*: 100%
+  - *Interpretation*: Exceptional performance after hyperparameter tuning and overfitting prevention
 
-- **Análise de Network Science**
-  - A inclusão da centralidade dos países como variável preditora contribuiu para melhorar o desempenho dos modelos.
-
----
-
-## Possíveis Melhorias
-
-- **Análise de Overfitting**
-  - Apesar das altas acurácias, é importante continuar monitorando para evitar sobreajuste, especialmente com dados futuros.
-
-- **Dados Adicionais**
-  - Incorporar variáveis como índices de mobilidade, medidas governamentais e taxas de vacinação para enriquecer os modelos.
-
-- **Modelos Avançados**
-  - Explorar modelos de séries temporais ou redes neurais recorrentes (LSTM) para capturar dependências temporais.
-
-- **Refinamento da Rede**
-  - Utilizar dados reais de conexões entre países (fluxos de viagens, fronteiras) para aprimorar a análise de network science.
+- **Network Science Analysis**
+  - Country centrality as a predictor variable improved model performance
 
 ---
 
-## Contribuições
+## Future Improvements
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues* e enviar *pull requests*.
+- **Overfitting Analysis**
+  - Continue monitoring high accuracy rates to prevent overfitting with future data
 
-1. **Fork o repositório**
-2. **Crie uma nova branch**
+- **Additional Data**
+  - Incorporate mobility indices, government measures, and vaccination rates
+
+- **Advanced Models**
+  - Explore time series models or LSTM networks for temporal dependencies
+
+- **Network Refinement**
+  - Use actual country connection data (travel flows, borders) to enhance network science analysis
+
+---
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues and submit pull requests.
+
+1. **Fork the repository**
+2. **Create a feature branch**
 
    ```bash
-   git checkout -b feature/nova-funcionalidade
+   git checkout -b feature/new-feature
    ```
 
-3. **Commit suas alterações**
+3. **Commit changes**
 
    ```bash
-   git commit -m "Descrição da nova funcionalidade"
+   git commit -m "Feature description"
    ```
 
-4. **Envie para o repositório remoto**
+4. **Push to remote**
 
    ```bash
-   git push origin feature/nova-funcionalidade
+   git push origin feature/new-feature
    ```
 
-5. **Abra um Pull Request**
+5. **Open a Pull Request**
 
 ---
 
-## Licença
+## License
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-## Agradecimentos
-
-- **Faculdade Descomplica**
-  - Pela oportunidade de aplicar conhecimentos adquiridos na **Pós-Graduação em Data Science**.
-- **Comunidade Open Source**
-  - Pelas bibliotecas e datasets disponibilizados, fundamentais para este projeto.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Contato:** [bianchi92@hotmail.com](mailto:bianchi92@hotmail.com)
+## Acknowledgments
+
+- **Descomplica College**
+  - For the opportunity to apply knowledge gained in the **Data Science Post-Graduate Program**
+- **Open Source Community**
+  - For providing essential libraries and datasets
 
 ---
 
-*Este projeto é parte dos requisitos do Módulo 03 da Pós-Graduação em Data Science da Faculdade Descomplica.*
+**Contact:** [bianchi92@hotmail.com](mailto:bianchi92@hotmail.com)
+
+---
+
+*This project fulfills requirements for Module 03 of the Data Science Post-Graduate Program at Descomplica College.*

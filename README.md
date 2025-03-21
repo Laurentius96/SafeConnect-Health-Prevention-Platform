@@ -1,5 +1,3 @@
-Here's the native English version of your README.md:
-
 # SafeConnect | Intelligent Disease Prevention Platform Using Real-World Data
 ---
 

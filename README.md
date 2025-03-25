@@ -188,7 +188,18 @@ Contributions are welcome! Feel free to open issues and submit pull requests.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+### What this means:
+
+- **Permission to use** — You can freely use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software
+- **Open source** — Source code is made available with minimal restrictions on its use
+- **Commercial use allowed** — You can use the software for commercial purposes
+- **Modification allowed** — You can modify the source code and create derivative works
+- **Limited liability** — The software is provided "as is" without warranty of any kind
+- **Attribution required** — You must include the original copyright notice and permission notice in any copy of the software
+
+For the complete MIT License terms, please refer to the [LICENSE](LICENSE) file in this repository.
 
 ---
 
@@ -201,7 +212,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Contact:** [bianchi92@hotmail.com](mailto:bianchi92@hotmail.com)
+**Contact:** 
+
+For questions or suggestions about this repository, please contact me through GitHub.
 
 ---
 

@@ -1,5 +1,3 @@
-Aqui está o README.md atualizado com a licença CC BY-NC-ND 4.0 em substituição à licença MIT:
-
 # SafeConnect | Intelligent Disease Prevention Platform Using Real-World Data
 ---
 

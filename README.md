@@ -1,3 +1,5 @@
+Aqui está o README.md atualizado com a licença CC BY-NC-ND 4.0 em substituição à licença MIT:
+
 # SafeConnect | Intelligent Disease Prevention Platform Using Real-World Data
 ---
 
@@ -188,18 +190,16 @@ Contributions are welcome! Feel free to open issues and submit pull requests.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). See the [LICENSE](LICENSE.md) file for details.
 
 ### What this means:
 
-- **Permission to use** — You can freely use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software
-- **Open source** — Source code is made available with minimal restrictions on its use
-- **Commercial use allowed** — You can use the software for commercial purposes
-- **Modification allowed** — You can modify the source code and create derivative works
-- **Limited liability** — The software is provided "as is" without warranty of any kind
-- **Attribution required** — You must include the original copyright notice and permission notice in any copy of the software
+- **Attribution required** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
+- **NonCommercial** — You may not use the material for commercial purposes
+- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits
 
-For the complete MIT License terms, please refer to the [LICENSE](LICENSE.md) file in this repository.
+For the complete CC BY-NC-ND 4.0 license terms, please refer to the [LICENSE](LICENSE.md) file in this repository or visit [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ---
 

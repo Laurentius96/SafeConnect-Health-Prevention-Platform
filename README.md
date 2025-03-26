@@ -188,7 +188,7 @@ Contributions are welcome! Feel free to open issues and submit pull requests.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 ### What this means:
 
@@ -199,7 +199,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Limited liability** — The software is provided "as is" without warranty of any kind
 - **Attribution required** — You must include the original copyright notice and permission notice in any copy of the software
 
-For the complete MIT License terms, please refer to the [LICENSE](LICENSE) file in this repository.
+For the complete MIT License terms, please refer to the [LICENSE](LICENSE.md) file in this repository.
 
 ---
 

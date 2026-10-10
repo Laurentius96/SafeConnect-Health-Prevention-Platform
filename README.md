@@ -85,13 +85,13 @@ The rapid spread of diseases like COVID-19 highlights the critical need for effe
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/safeconnect.git
+   git clone https://github.com/Laurentius96/SafeConnect-Health-Prevention-Platform.git
    ```
 
 2. **Navigate to project directory**
 
    ```bash
-   cd safeconnect
+   cd SafeConnect-Health-Prevention-Platform
    ```
 
 3. **Create virtual environment (recommended)**
